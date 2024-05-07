@@ -224,7 +224,7 @@ body {
         opacity: 0;
         animation-name: topFadeOutVertical;
         animation-delay: 10.5s;
-        animation-duration: 6s;
+        animation-duration: 9s;
         color: #a3ddf0;
         white-space: nowrap;
       }
@@ -238,18 +238,18 @@ body {
         color: #f0a3be;
         animation-name: fadeInOut;
         animation-delay: 10s;
-        animation-duration: 9s;
+        animation-duration: 11s;
       }
       
       .fifth-text {
         font-size: 3rem;
         position: absolute;
-        left: 13%;
+        left: 12%;
         bottom: 25%;
         opacity: 0;
         color: #f0eba3;
         animation-name: bottomFadeOut;
-        animation-delay: 16s;
+        animation-delay: 18s;
         animation-duration: 8s;
       }
       
